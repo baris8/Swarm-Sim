@@ -1,3 +1,21 @@
+The Simulator is not written by me (Baris Üctas).
+It is written by Ahmad Reza Ceraghi from the Heinrich-Heine-Universität and all credits for it belong to him.
+My written code is in the directories: solution and scenario.
+
+
+Bachelor Thesis is: Central and Decentral Algorithms for the formation of Swarms
+
+HOW TO USE:
+In the Config.ini File are a few options that you can change.
+The relevant ones are the 
+- amount of robots(particles): p_amount
+- dyanmic scenario: dynamic
+- which scenario to load up: scenario
+- which solutiontype to load (central or decentral): solution
+
+
+
+HOW TO INSTALL
 For Linux:
 
 -unzip the source code:
