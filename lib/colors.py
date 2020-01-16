@@ -7,3 +7,4 @@ class Colors(Enum):
     red = 3
     green = 4
     blue = 5
+    yellow = 6

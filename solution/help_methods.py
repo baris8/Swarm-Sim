@@ -28,6 +28,7 @@ def neighbour_of_leader(particle):
     if particle.read_memory_with("Leader") == 0:
         for nb in particle.scan_for_particle_within(1):
             if nb.read_memory_with("Leader") >= 1 and nb.read_memory_with("WayForN") == None:
+                particle.set_color(6)
                 particle.write_to_with(nb, "WayForN", calc_dir(particle, nb))
                 spread_way(nb)
 

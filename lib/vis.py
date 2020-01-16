@@ -14,7 +14,7 @@ screenshot_file_type = '.png'
 zoom_enabled = True
 zoom_min = 8
 zoom_max = 128
-zoom_init = 45#16
+zoom_init = 70#16
 zoom_speed = 1 / 50
 
 translation_enabled = True
@@ -33,7 +33,7 @@ busy_waiting_time = 0.0015
 print_frame_stats = False
 
 # simulation parameters
-rounds_per_second = 15
+rounds_per_second = 1
 
 # tile_alpha = 0.6
 particle_alpha = 1
