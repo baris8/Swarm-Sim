@@ -1,5 +1,5 @@
 The Simulator is not written by me (Baris Üctas).
-It is written by Ahmad Reza Ceraghi from the Heinrich-Heine-Universität and all credits for it belong to him.
+It is written by Ahmad Reza Ceraghi from the Heinrich-Heine-Universität and all credits for it belongs to him.
 My written code is in the directories: solution and scenario.
 
 
